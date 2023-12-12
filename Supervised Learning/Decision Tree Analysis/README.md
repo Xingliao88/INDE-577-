@@ -6,7 +6,7 @@ Decision trees are easy to understand and interpret, visually displaying the dec
 
 Decision trees can also be prone to overfitting, especially when they grow deep or complex. They are also sensitive to small changes in the training data.
 
-## Data
+## Dataset
 The Titanic Survival dataset, commonly known as the Titanic dataset, is a classic in the field of data science and machine learning, often used for binary classification tasks. It comprises passenger information from the Titanic, a British passenger liner that sank on its maiden voyage in 1912 after colliding with an iceberg. The dataset typically includes various features such as passenger class, sex, age, and fare, which are used to predict a binary outcome: whether a passenger survived or perished in the disaster. 
 
 ## Outline
